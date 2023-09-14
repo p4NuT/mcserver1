@@ -1,0 +1,1 @@
+java -Xmx6096M -Xms6096M -jar minecraft_server.jar nogui
